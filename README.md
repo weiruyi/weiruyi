@@ -1,7 +1,7 @@
 ## About me
 - 🌱 I’m currently learning Java              
 - 🔭 My blog: https://weiruyi.github.io/ ,  http://blog.ruyiwei.top/
-- 📫 How to reach me: weiruyiowo@gmail.com     
+- 📫 How to reach me: weiruyiowo@gmail.com   , ruyiwei@hnu.edu.cn  
 
 
 
